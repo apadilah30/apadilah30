@@ -31,3 +31,5 @@ I'm Agus Padilah ([20] y.o) ! :sunglasses:
 
 Feel free to contact me :yum:
 <br><br>
+
+![Visitor Count](https://profile-counter.glitch.me/apadilah30/count.svg)
